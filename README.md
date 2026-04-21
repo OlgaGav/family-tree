@@ -2,7 +2,9 @@
 
 Autobiography of Alexander Abramovich Lalayan
 
-Interpretation of scanned pages
+Page is available at https://olgagav.github.io/family-tree/index.html
+
+Interpretation of scanned pages - index.html
 
 | Имя файла    | К какой части относится | Номер по части                                     |
 | ------------ | ----------------------- | -------------------------------------------------- |
@@ -24,23 +26,6 @@ Interpretation of scanned pages
 | Scan0015.jpg | Армянские страницы      | Армянские страницы, стр. 3 (нижняя часть страницы) |
 | Scan0016.jpg | Армянские страницы      | Армянские страницы, стр. 4                         |
 
-
-Notes about other family memebers
-
-Гладков
-Красноярский край
-Чаловский район
-12 лет
-село Малая Мышь
-
-
-Александр Абрамович, в 31-33 году осужден
-
-Макаренко/Лалаян Ефросинья Ефимовна (бабушка Эльзы)
-Макаренко Тимофей Ефимович (брат бабушки)
-
-
-Крым => красноярский Край
 
 ## Сторонние ссылки
 https://ru.openlist.wiki/%D0%9B%D0%B0%D0%BB%D0%B0%D1%8F%D0%BD_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B8%D1%87_(1883)
